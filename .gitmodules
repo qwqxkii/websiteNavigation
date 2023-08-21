@@ -1,0 +1,3 @@
+[submodule "WebStack-Hugo"]
+	path = WebStack-Hugo
+	url = https://github.com/shenweiyan/WebStack-Hugo.git
