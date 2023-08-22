@@ -1,3 +1,9 @@
 - title: 爱好者
   url: #
-  description: 爱好者
+  description: cloudflare
+- title: cloudflare
+  url: cloudflare.com
+  description: cloudflare提供托管
+- title: WebStack
+  url: https://github.com/shenweiyan/WebStack-Hugo
+  description: WebStack提供主题
