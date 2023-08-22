@@ -44,25 +44,20 @@
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
-    - term: 云服务器
+    - term: AI助手
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.jpg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-
+        - title: ChatGPT
+          logo: openai.jpg
+          url: https://chat.openai.com/
+          description: ChatGPT。
+        - title: Claude 2
+          logo: Claude.jpg
+          url: https://www.anthropic.com/
+          description: Claude。
+        - title: 懂大师AI
+          logo: 懂大师AI.jpg
+          url: https://expertdong.zqtstore.com/
+          description: 懂大师AI。
     - term: 办公学习
       links:
         - title: 谷歌翻译
