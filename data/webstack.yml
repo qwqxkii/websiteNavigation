@@ -3,6 +3,9 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
+    - title: 黑盒语音
+      logo: 黑盒语音.png
+      url: http://chat.top/iz5ltu
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
