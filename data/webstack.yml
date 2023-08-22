@@ -194,11 +194,11 @@
           description: 职业CFG配置。
         - title: CSGOOB大盘
           url: https://www.csgoob.com/
-          logo: 书栈网.jpg
+          logo: https://www.csgoob.com/favicon.ico
           description: CSGOOB大盘
         - title: CSGOQAQ
           url: https://csqaq.com/home
-          logo: csqaq.com.jpg
+          logo: https://csqaq.com/logo.svg
           description: CSGOQAQ饰品指数
     - term: CSGO游戏社区
       links:
