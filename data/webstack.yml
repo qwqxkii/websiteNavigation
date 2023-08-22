@@ -189,3 +189,17 @@
           url: https://prosettings.net/
           logo: 书栈网.jpg
           description: 职业CFG配置。
+        - title: CSGOOB大盘
+          url: https://www.csgoob.com/
+          logo: 书栈网.jpg
+          description: CSGOOB大盘
+        - title: CSGOQAQ
+          url: https://csqaq.com/home
+          logo: csqaq.com.jpg
+          description: CSGOQAQ饰品指数
+    - term: CSGO游戏社区
+      links:
+        - title: 社区集合
+          url: https://csgo.wanmei.com/communityserver
+          logo: 完美.jpg
+          description: CSGO社区集合。
