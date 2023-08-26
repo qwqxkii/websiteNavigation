@@ -58,6 +58,10 @@
           logo: 懂大师AI.jpg
           url: https://expertdong.zqtstore.com/
           description: 懂大师AI。
+        - title: 其他AI合集
+          logo: 其他AI合集.jpg
+          url: https://github.com/xx025/carrot/blob/main/README.md
+          description: 其他AI合集。
     - term: 办公学习
       links:
         - title: 谷歌翻译
