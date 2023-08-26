@@ -1,7 +1,8 @@
 # websiteNavigation
 自用导航，使用hugo构建
 
-托管于cloudflare.com
+构建与加速托管于cloudflare.com
+
 ## 说明
 数据配置存在于data文件夹下
 
