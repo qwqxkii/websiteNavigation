@@ -9,6 +9,9 @@
     - title: 局域网互传
       logo: qq邮箱.png
       url: https://www.sharedrop.io/
+    - title: 本地IP查询
+      logo: 本地IP查询.png
+      url: https://ip.skk.moe/
     - title: CODING
       logo: coding.png
       url: https://shenweiyan.coding.net/user/projects
