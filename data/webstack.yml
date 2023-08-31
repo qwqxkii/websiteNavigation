@@ -9,6 +9,9 @@
     - title: 局域网互传
       logo: qq邮箱.png
       url: https://www.sharedrop.io/
+    - title: 网络剪贴板
+      logo: 网络剪贴板.png
+      url: https://netcut.cn
     - title: 本地IP查询
       logo: 本地IP查询.png
       url: https://ip.skk.moe/
