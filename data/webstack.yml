@@ -166,6 +166,10 @@
           logo: v2ex.jpg
           url: https://www.infoq.cn/
           description: infoQ逐渐不太行了。
+        - title: nodeseek
+          logo: nodeseek.jpg
+          url: https://www.nodeseek.com/
+          description: nodeseek
     - term: 视频教程
       links:
         - title: doyoudo
