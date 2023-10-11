@@ -170,6 +170,10 @@
           logo: nodeseek.jpg
           url: https://www.nodeseek.com/
           description: nodeseek
+        - title: 如有乐享
+          logo: 51.ruyo.net
+          url: https://51.ruyo.net/
+          description: 如有乐享
     - term: 视频教程
       links:
         - title: doyoudo
