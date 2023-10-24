@@ -33,7 +33,7 @@
       description: 短链生成。
     - title: 文件加速
       logo: v2ex.jpg
-      url: https://git.ixiao9.me/
+      url: https://git.xkii.cc/
       description: 文件加速。  
     - title: 图床存储
       logo: v2ex.jpg
@@ -64,10 +64,10 @@
           logo: Claude.jpg
           url: https://www.anthropic.com/
           description: Claude。
-        - title: 懂大师AI
-          logo: 懂大师AI.jpg
-          url: https://expertdong.zqtstore.com/
-          description: 懂大师AI。
+        - title: 自建AI
+          logo: 自建AI.jpg
+          url: https://www.ixiao8.me/
+          description: 自建AI。
         - title: 其他AI合集
           logo: 其他AI合集.jpg
           url: https://github.com/xx025/carrot/blob/main/README.md
