@@ -51,6 +51,10 @@
       logo: v2ex.jpg
       url: https://stats.uptimerobot.com/rnrRJurjmR
       description: 主机监控。  
+    - title: 订阅合并
+      logo: 订阅合并.jpg
+      url: https://sub.dler.io/
+      description: 订阅合并。  
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
