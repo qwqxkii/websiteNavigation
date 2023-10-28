@@ -178,6 +178,11 @@
           logo: 51.ruyo.net
           url: https://51.ruyo.net/
           description: 如有乐享
+        - title: lpolaris
+          logo: lpolaris
+          url: https://www.lpolaris.com/
+          description: lpolaris
+          
     - term: 视频教程
       links:
         - title: doyoudo
