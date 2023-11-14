@@ -55,6 +55,10 @@
       logo: 订阅合并.jpg
       url: https://sub.dler.io/
       description: 订阅合并。  
+    - title: 电影
+      logo: 电影
+      url: https://dy.sy/
+      description: 电影。 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
@@ -232,3 +236,4 @@
           url: https://csgo.wanmei.com/communityserver
           logo: 完美.jpg
           description: CSGO社区集合。
+          
