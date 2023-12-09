@@ -80,6 +80,10 @@
           logo: 自建AI.jpg
           url: https://www.ixiao8.me/
           description: 自建AI。
+        - title: AI语音生成
+          logo: AI语音生成.jpg
+          url: https://www.modelscope.cn/studios/xzjosh/Bert-VITS2/summary
+          description: AI语音生成
         - title: 其他AI合集
           logo: 其他AI合集.jpg
           url: https://github.com/xx025/carrot/blob/main/README.md
