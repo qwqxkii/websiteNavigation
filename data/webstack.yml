@@ -59,6 +59,10 @@
       logo: 电影
       url: https://dy.sy/
       description: 电影。 
+    - title: IP查询2
+      logo: IP查询2
+      url: https://ipcheck.ing/
+      description: IP查询2
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
