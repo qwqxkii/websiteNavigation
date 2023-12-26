@@ -84,6 +84,10 @@
           logo: AI语音生成.jpg
           url: https://www.modelscope.cn/studios/xzjosh/Bert-VITS2/summary
           description: AI语音生成
+        - title: AI聚合
+          logo: AI聚合.jpg
+          url: https://chat.lmsys.org/
+          description: AI聚合
         - title: 其他AI合集
           logo: 其他AI合集.jpg
           url: https://github.com/xx025/carrot/blob/main/README.md
