@@ -249,3 +249,13 @@
           logo: 完美.jpg
           description: CSGO社区集合。
           
+- taxonomy: 二刺螈
+  icon: fas fa-gamepad
+  list: 
+    - term: 次元
+      links:
+        - title: 次元黄页
+          url: https://yunmanzhan.com/
+          logo: yunmanzhan.jpg
+          description: yunmanzhan
+        - title: yunmanzhan
