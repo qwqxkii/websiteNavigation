@@ -118,6 +118,10 @@
           logo: ProcessOn.png
           url: https://fanyi.phpstudyhelper.com/
           description: 代码变量名称翻译。 
+        - title: 代码下载加速 
+          logo: sciproxy.png
+          url: https://sciproxy.com/
+          description: 代码下载加速 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
