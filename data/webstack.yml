@@ -202,6 +202,10 @@
           logo: lpolaris
           url: https://www.lpolaris.com/
           description: lpolaris
+        - title: nodeloc
+          logo: nodeloc
+          url: https://www.nodeloc.com/
+          description: nodeloc
           
     - term: 视频教程
       links:
