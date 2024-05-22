@@ -92,6 +92,14 @@
           logo: 其他AI合集.jpg
           url: https://github.com/xx025/carrot/blob/main/README.md
           description: 其他AI合集。
+        - title: 慧AI
+          logo: 其他AI合集.jpg
+          url: https://huiai.io/
+          description: AI。
+        - title: FreeAi
+          logo: FreeAi.jpg
+          url: https://github.com/milomoon/FreeAi
+          description: FreeAi
     - term: 办公学习
       links:
         - title: 谷歌翻译
