@@ -164,6 +164,10 @@
           url: https://learn.lianglianglee.com/
           logo: doyoudo.png
           description: 技术文章摘抄。
+        - title: geektime-books
+          url: https://github.com/it-ebooks-0/geektime-books
+          logo: geektime-books.png
+          description: geektime-books。
     - term: 博客论坛
       links:
         - title: 阮一峰的网络日志
