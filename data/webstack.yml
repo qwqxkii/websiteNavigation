@@ -76,9 +76,9 @@
           logo: Claude.jpg
           url: https://www.anthropic.com/
           description: Claude。
-        - title: 自建AI
-          logo: 自建AI.jpg
-          url: https://www.ixiao8.me/
+        - title: AI导航
+          logo: AI导航
+          url: https://ai-bot.cn/
           description: 自建AI。
         - title: AI语音生成
           logo: AI语音生成.jpg
